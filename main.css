@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://www.mrwallpaper.com/wallpapers/chicago-illinois-night-1366x768.jpg');
+  background-image: url('http://www.mrwallpaper.com/wallpapers/chicago-illinois-night-1366x768.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -34,33 +34,39 @@
   color: #fff;
 }
 
-.learn-more {
-  background-color: #f7f7f7;
-}
-
-.learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.learn-more a {
-  color: #00b0ff;
-}
-
 .medasyst-products {
-    background-color: #efefef;
-    border-bottom: 1px solid #dbdbdb;
+  background-color: #efefef;
+  border-bottom: 1px solid #dbdbdb;
 }
 
 .medasyst-products h2 {
-    color: #393c3d;
-    font-size: 24px;
+  color: #393c3d;
+  font-size: 24px;
 }
 
 .medasyst-products p {
-    font-size: 15px;
-    margin-bottom: 13px;
+  font-size: 15px;
+  margin-bottom: 13px;
 }
+
+.medasyst-products a {
+  color: #00b0ff;
+}
+
+.jumbotron-second {
+  background-image: url('http://www.womenshealthmag.com/files/images/0410-youcan-hiking-0008.jpg');
+}
+
+.jumbotron-second h3 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;}
+
+.jumbotron-second a {
+  color: #00b0ff;
+}
+
+
     
     
