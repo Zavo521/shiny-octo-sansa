@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+    
+  </head>
+
+  <body>
+  	<div class="nav">
+  		<div class="container">
+        <ul class="pull-left nav nav-tabs">
+          <li><a href="#">Medasyst</a></li>
+          <li><a href="#">About Us</a></li>
+        </ul>
+
+        <ul class="pull-right nav nav-tabs">
+          <li><a href="#">Products</a></li>
+          <li><a href="#">FAQ</a></li>
+          <li><a href="#">Testimonials</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      	</div>
+    </div>
+
+    <div class="faq">
+      <div class="container">
+        <h1>FAQ</h1>
+        <ul>
+          <h4>How much does it cost?</h4>
+          <li>Our modules range from $250 to $450 per year.  However, Medasyst is proud to present our partnership program which gives our merchants the opportunity to save money on their processing costs AND wave all fees associated with our software.  <a href="mailto:sa;es@medasyst-software.com">Contact us</a> for a no obligation quote within 48 hours.</li>
+
+          <h4>Sounds too good to be true.  How can I receive free software and pay less for merchant services?</h4>
+          <li>We accomplish this through our strategic partnership with some the credit card industry's most reliable and forward thinking providers.  By connecting you with them, we give them the opportunity to knock your socks off with unmatched pricing and service.  For that opportunity, out partners will pay our fees on you behalf.  The best part is, if you are unsatisfied with your service in any way, there are no contracts or termination fees.  We like business models where organizations must compete for your business every day, not just at the beginning to get you to sign on the dotted line.</li>
+
+          <h4>What equipment do I need for credit and debit card processing?</h4>
+          <li>If you are a mail or telephone order operation, you only need a PC equipped with a modem or connected to Internet. If you are a retailer, you also need a magnetic card reader to read track information of credit and debit cards. For processing debit cards, you need an encrypted pinpad. Usually financial institutions or processors provide these. We recommend the Verifone 1000 pinpad, which we have used in our testing. This pinpad supports both fixed key (Master Session), and DUKPT type encryption. We can assist you in interfacing the pinpad to your computer.</li>
+
+          <h4>My client is an Internet vendor. Do they have to process credit cards over the Internet?</h4>
+          <li>No. Only if their goods or services are released immediately upon placement of an order does the vendor have to obtain the authorization in real time. Processing via Internet is certainly a desirable option in such a case. WnetCard Modules provide the fastest transaction times possible for IP-based processing. If order fulfillment is not immediate, the vendor may collect all the sales information through their electronic shopping cart, and then process all the transactions as a batch in one dial-up.</li>
+
+          <h4>My customers have different processors. Is it difficult to implement choices for processors in my software?</h4>
+          <li>No, it is not.  We have done all the hard work for you.  One of the parameters passed to the routines of WnetCard Modules contains the name of the configuration file.  The file contains the information about selected processor as well as merchant parameters on the selected network.  To switch processing to another processor or provider create a new configuration file and pass its name to the processing routines.</li>
+
+          <h4>My client or I do not have a processor. Which processor should I choose?</h4>
+          <li>Our software is processor agnostic to provide you with maximum flexibility in choosing the processor that is right for you or your client.  If you are still unsure, Medasyst does partner with several of the industry's largest merchant services providers.  <a href="mailto:sales@medasyst-software.com">Send us a note</a> and we will be happy to get you a hassle-free, obligation-free quote from our partners.</li> 
+
+          <h4>Will WnetCard require installation of a security certificate?</h4>
+          <li>No. WnetCard supports SSL communications with the processor's gateway without any need for the client's certificate.</li>
+
+          <h4>Do I need VPN (virtual private network) to process securely transactions over the Internet?</h4>
+          <li>No.  WnetCard Modules establish a secure SSL link with the processor's gateway over open Internet.</li>
+
+          <h4>Is the transaction data safe when stored by processing routines prior to settlement?</h4>
+          <li>Yes, absolutely.  The WnetCard Modules are <a href="http://usa.visa.com/merchants/protect-your-business/cisp/payment-applications.jsp">PABP CISP</a>  (Payment Application Best Practices) certified by VISA.  No sensitive information like magnetic tracks, CV values or billing addresses are stored at all.  The account numbers are stored in encrypted form using a strong floating encryption algorithm.</li>
+
+          <h4>I have more questions.</h4>
+          <li>Then click the button below.  We love our customers and can't wait to address any questions you have!</li>
+        </div>
+      </div>
+
+      <div class="faq2">
+          <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:700' rel='stylesheet' type='text/css'>
+          <a href="mailto:sales@medasyst-software.com">Push Me!</a>
+        </div>
+
+
+
+        </ul>
+
+      </div>
+
+
+
+
+
+
+
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-4">
+            <h5>PRODUCTS</h5>
+            <p><a href="#">WnetCard Modules</a></p>
+            <p><a href="#">WnetCardQB</a></p>
+            <p><a href="#">WnetCardQBPOS</a></p>
+            <p><a href="#">WnetCheck</a></p>
+          </div>
+
+          <div class="col-md-4">
+            <h5>ABOUT</h5>
+            <p><a href="#">About Us</a></p>
+            <p><a href="#">Privacy Policy</a></p>
+          </div>
+
+          <div class="col-md-4">
+            <h5>CONTACT US</h5>
+            <p>Medayst, Inc.</p>
+            <p>P.O. Box 59610</p>
+            <p>Chicago, IL. 60659</p>
+            <p>(847) 982-0846</p>
+            <p><a href="mailto:sales@medasst-software.com">sales@medasyst-software.com</a></p>
+            <p><a href="mailto:info@medasst-software.com">info@medasyst-software.com</a></p>
+          </div>
+
+        </div>  
+
+      </div>
+
+    </div>
+
+
+  </body>
