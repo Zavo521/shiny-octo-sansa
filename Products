@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+    
+  </head>
+
+  <body>
+  	<div class="nav">
+  		<div class="container">
+        <ul class="pull-left nav nav-tabs">
+          <li><a href="#">Medasyst</a></li>
+          <li><a href="#">About Us</a></li>
+        </ul>
+
+        <ul class="pull-right nav nav-tabs">
+          <li><a href="#">Products</a></li>
+          <li><a href="#">FAQ</a></li>
+          <li><a href="#">Testimonials</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      	</div>
+    </div>
+
+    <div class="jumbotron jumbotron-products">
+      <div class="container">
+      	<div class="col-md-6">
+        <h1>Our Products</h1>
+        <p>Since 1995, Medasyst has been developing and installing products that have saved merchants thousands of dollars per year, and created recurring revenue for our merchant services parnters.  We are proud to present the followng suite of products.</p>
+    	</div>
+      </div>
+    </div> 
+
+    <div class="wnetcardqb">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-md-6">
+    			<h2>WnetCardQB</h2>
+    			<p>WnetCardQBTM, will provide seamless integration of transactions processing into QuickBooks®. This plug-in is based on our tested and PABP certified product WnetCard ModulesTM, which facilitates lightening speed processing via the Internet. WnetCardQB communicates directly with all major US processors, without any involvement of third-party gateways, thus avoiding transaction surcharges and increased security risks.</p>
+    			</div>
+
+    			<div class="col-md-6">
+    				<iframe width="500" height="315" src="https://www.youtube.com/embed/kS_s_k8MeF8" frameborder="1" allowfullscreen></iframe>
+
+    			</div>
+    		</div>
+    	</div>
+    </div>
+
+     <div class="WnetCardQBPOS">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-md-6">
+            <iframe width="500" height="315" src="https://www.youtube.com/embed/3MNBHJrAeVM" frameborder="1" allowfullscreen></iframe>
+    			</div>
+
+    			<div class="col-md-6">
+    			<h2>WnetCardQBPOS</h2>
+    			<p>WnetCardQBTM, will provide seamless integration of transactions processing into QuickBooks®. This plug-in is based on our tested and PABP certified product WnetCard ModulesTM, which facilitates lightening speed processing via the Internet. WnetCardQB communicates directly with all major US processors, without any involvement of third-party gateways, thus avoiding transaction surcharges and increased security risks.</p>
+    			</div>
+    		</div>    	
+    	</div>
+    </div>
+
+     <div class="WnetCard Modules">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-md-6">
+    			<h2>WnetCard Modules</h2>
+    			<p>WnetCard Modules™ will enable your software to do real-time transaction processing via Internet using a 128-bit encrypted SSL link with the processing network. WnetCard Modules also support roll back dial-up connection in case the Internet link is not available. Our products communicate directly with the IP gateways of the processors. This direct interface with the processor's gateway is a better alternative to the payment portals offered by Authorize.Net, LinkPoint, PlanetPayment and others. Our product will enable you to eliminate per transaction charges that you or your clients will have to pay to utilize third party payment gateways. WnetCard Modules™ require no special equipment and will work over regular Internet connections.</p>
+    			</div>
+
+    			<div class="col-md-6">
+    			</div>
+    		</div>
+    	</div>
+    </div>
+
+        <div class="footer">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-4">
+            <h5>PRODUCTS</h5>
+            <p><a href="#">WnetCard Modules</a></p>
+            <p><a href="#">WnetCardQB</a></p>
+            <p><a href="#">WnetCardQBPOS</a></p>
+            <p><a href="#">WnetCheck</a></p>
+          </div>
+
+          <div class="col-md-4">
+            <h5>ABOUT</h5>
+            <p><a href="#">About Us</a></p>
+            <p><a href="#">Privacy Policy</a></p>
+          </div>
+
+          <div class="col-md-4">
+            <h5>CONTACT US</h5>
+            <p>Medayst, Inc.</p>
+            <p>P.O. Box 59610</p>
+            <p>Chicago, IL. 60659</p>
+            <p>(847) 982-0846</p>
+            <p><a href="mailto:sales@medasst-software.com">sales@medasyst-software.com</a></p>
+            <p><a href="mailto:info@medasst-software.com">info@medasyst-software.com</a></p>
+          </div>
+
+        </div>  
+
+      </div>
+
+    </div>
+
+
+  </body>
